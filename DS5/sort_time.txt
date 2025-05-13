@@ -1,0 +1,7 @@
+	Select	Bubble	Merge	Quick	Radix
+
+Test1	39	277	4	4	5
+
+Test2	229	1598	17	8	17
+
+Test3	882	6001	42	25	35
